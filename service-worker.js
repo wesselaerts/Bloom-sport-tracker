@@ -1,6 +1,6 @@
 // Bloom PWA service worker
 // Bump CACHE_VERSION wanneer je updates uitrolt zodat clients vernieuwen
-const CACHE_VERSION = 'bloom-v2-pilates';
+const CACHE_VERSION = 'bloom-v3-strength';
 
 const ASSETS = [
   './',
